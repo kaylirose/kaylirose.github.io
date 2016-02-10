@@ -8,7 +8,7 @@
 }
 
 .promo-container {
-    background: lightgray;
+    background: teal;
 }
 
 header {
@@ -49,4 +49,33 @@ header {
     width: 60%;
     padding: 50px;
     
+}
+
+/*product-features*/
+
+.product-features, .product-buy-it-now {
+    display: flex;
+}
+
+.feature {
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.feature-image {
+    background: red;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto 0 auto;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.product-buy-it-now {
+    align-items: center;
+}
+
+.product-info {
+    text-align: right;
 }
