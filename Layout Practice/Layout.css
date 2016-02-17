@@ -87,3 +87,26 @@ header {
     text-align: center;
     
 }
+
+footer {
+    background: white;
+    display: flex;
+    padding: 15px 10px 15px 10px;
+    font-size: 10px;
+    
+}
+
+.footer-links {
+    flex: 1;
+    font-size: 12px;
+}
+
+.footer-copyright {
+    flex: 1;
+    text-align: right;
+}
+
+.footer-copyright p {
+    margin: 0;
+}
+
