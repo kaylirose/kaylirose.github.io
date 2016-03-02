@@ -1,0 +1,114 @@
+.flexbox-container {
+  display: flex;
+  background: gray;
+  margin-bottom: 130px;
+  width: 960px;
+  height: 570px;
+  border-style: solid;
+}
+    
+  
+.flex-item-1 {
+  background: red;
+  width: 240px;
+ 
+} 
+  
+
+.flex-item-2 {
+  background: green;
+  width: 240px;
+}
+
+.flex-item-3 {
+  background: blue;
+  width: 240px;
+}
+
+.flex-item-4 {
+  background: yellow;
+  width: 240px;
+}
+
+.flexbox-container1 {
+  display: flex;
+  background: white;
+  margin-bottom: 130px;
+  width: 960px;
+  height: 570px;
+  border-style: solid;
+  
+}
+
+.flex1 {
+  background:red;
+  width: 200px;
+  height: 200px;
+  
+}
+
+.flex2 {
+  background: blue;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: -200px;
+  top: 370px;
+
+}
+
+.flex3 {
+  background: green;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 360px;
+
+  
+}
+
+.flex4 {
+  background: yellow;
+  width: 200px;
+  height: 200px;
+  margin-left: auto;
+  align-self: flex-end;
+  
+}
+
+
+.flexbox-container2 {
+  display: flex;
+  background: white;
+  margin-bottom: 130px;
+  width: 960px;
+  height: 570px;
+  border-style: solid;
+  flex-wrap: wrap;
+  
+}
+
+.flex11 {
+  background: red;
+  width: 920px;
+  height: 120px;
+  margin: 20px
+  
+}
+
+.flex22 {
+  background: green;
+  width: 175px;
+  height: 395px;
+  margin-right:20px;
+  margin-left:20px;
+  margin-bottom: 20px;
+ 
+}
+
+.flex33 {
+  background: blue;
+  width: 730px;
+  height: 395px
+ 
+}
