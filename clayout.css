@@ -1,0 +1,163 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color:black;
+
+}
+.main-container {
+    width: 900px
+        ;
+    margin: 0 auto 0 auto;
+}
+
+
+.promo-container {
+    background-image: url(http://www.sherbrookeheightsanimalhospital.ca/wp-content/uploads/2015/10/header_cat-700x300.jpg);
+    background-repeat:no-repeat;
+   background-size: cover;
+    height: 470px;
+     border: px solid yellow; 
+}
+
+.middle-container {
+    display: flex;
+    background-color:indianred;
+    width: auto;
+    height:340px;
+    margin-top:auto;
+}
+
+
+.pill-button {
+    display: inline-flex;
+    background: slategray;
+    padding: 5px 30px 10px 30px;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    margin-left:75px
+    
+}
+
+
+.catlady {
+    font-family: 'Handlee', cursive;
+  text-shadow: 4px 4px 4px;
+    font-size: 40px;
+    font-style: bold;
+    width:250px;
+    height:45px;
+    margin-right: auto;
+    color:white;
+    margin-top:160px;
+}
+
+.feature-image {
+  width: 200px;
+  height: 200px;
+  margin:10px auto 10px auto;
+  border-radius: 30%;
+  overflow: hidden;
+  color: white;
+ display:flex; align-content: center
+}
+header {
+    display: flex;
+    background-color: lightyellow;
+    width: 900px;
+    height: 70px;
+}
+
+
+.kitten{
+   font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-style: Regular;
+    color:floralwhite;
+    width:120px;
+    height:20px;
+    align-self: center;
+    position: absolute;
+    margin-top:204px;
+    margin-left: -165px;
+}
+
+.cat{
+   font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-style: Regular;
+    color:floralwhite;
+    width:170px;
+    height:20px;
+    align-self: center;
+    position: absolute;
+    margin-top:204px;
+    margin-left: -195px;
+}
+
+.cat1{
+   font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-style: Regular;
+    color:floralwhite;
+    width:90px;
+    height:20px;
+    align-self: center;
+    position: absolute;
+    margin-top:196px;
+    margin-left: -115px;
+}
+
+
+.last-container {
+    display: flex;
+    background-color: gray;
+    width: auto;
+    height:410px;
+    margin-top:auto;
+}
+
+
+.pill-buttonthree {
+    font-family: 'Handlee', cursive;
+    font-size:20px;
+    background: white;
+    padding:4px;
+    border-radius: 11px;
+    color: black;
+    text-decoration: none;
+    word-spacing: 
+    margin-right: auto;
+    position: absolute;
+    right: 960px;
+    margin-top: 250px;
+    
+}
+
+
+
+.pill-buttonfour {
+    font-family: 'Handlee', cursive;
+    font-size:20px;
+    background: white;
+    padding:4px;
+    border-radius: 11px;
+    color: black;
+    text-decoration: none;
+    word-spacing: 
+    margin-right: auto;
+    position: absolute;
+    right: 850px;
+    margin-top: 250px;
+    
+}
+
+.bengal{
+   float: right;
+   margin:5px 5px 5px 5px ;
+    color:black;
+    font-family: 'Handlee', sans-serif;
+}
+
+font-family: 'Handlee', cursive;
