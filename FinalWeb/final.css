@@ -27,7 +27,7 @@ body {
 }
 
 .promo-container {
-    background-image: url(../FinalWeb/hiking.png);
+    background-image: url(http://cf.ltkcdn.net/camping/images/slide/123153-849x565-wa_sunrise_lodge.jpg);
     background-repeat:no-repeat;
    background-size: cover;
     height: 570px;
@@ -129,7 +129,7 @@ flex: 4;
     align-self: center;
     position: absolute;
     margin-top: -1110px;
-    margin-left: 540px;
+    margin-left: 340px;
     
 }
 
@@ -224,7 +224,7 @@ flex: 4;
     align-self: center;
     position: absolute;
     margin-top: -1050px;
-    margin-left: 540px;
+    margin-left: 370px;
     
 }
 
