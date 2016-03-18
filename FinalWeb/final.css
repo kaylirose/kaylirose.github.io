@@ -1,0 +1,692 @@
+
+* {
+    box-sizing: border-box;
+}
+body {
+    background-image:url(../FinalWeb/colored.png);
+    background-repeat:repeat;
+    
+    
+
+}
+.main-container {
+    background-color:blanchedalmond;
+    position:;
+    width: 907px;
+    height: 1273px;
+    margin: 0 auto 0 auto;
+    border: 3px solid mistyrose;
+}
+
+.main-containera {
+    background-color: blanchedalmond;
+    position:;
+    width: 907px;
+    height:1450px;
+    margin: 0 auto 0 auto;
+    border: 3px solid mistyrose;
+}
+
+.promo-container {
+    background-image: url(../FinalWeb/hiking.png);
+    background-repeat:no-repeat;
+   background-size: cover;
+    height: 570px;
+     border: 0px solid yellow; 
+}
+
+.middle-container {
+    display: flex;
+    background-color:darkseagreen;
+    width: auto;
+    height:240px;
+    margin-top:-898px;
+}
+
+.middle-containerblog {
+    display: flex;
+    background-color: black;
+    width: auto;
+     height:240px;
+    margin-top:auto;
+}
+
+
+.last-container {
+    display: flex;
+    background-color: blanchedalmond;
+    width: auto;
+    height:353px;
+    margin-top:auto;
+}
+
+.last-containerblog {
+    display: flex;
+    background-color: white;
+    width: auto;
+    height:354px;
+    margin-top:auto;
+}
+
+.promo-containera {
+    background-color:transparent;
+    background-repeat:no-repeat;
+   background-size: cover;
+    height:0px;
+    border: 0px solid yellow;
+    margin-top:-20px;
+}
+
+
+
+
+header {
+    display: flex;
+    position: absolute;
+    background-color: rosybrown;
+    width: 901px;
+    height: 90px;
+   border: 0px solid red; 
+}
+.lefttop {
+  position: relative;
+    width: 300px;
+    height: 90px;
+   border: 0px solid red;
+flex: 4;
+}
+
+.righttop {
+    position: relative;
+    flex: 3;
+    margin-left:170px;
+     width: 290px;
+    height: 90px;
+   border: 0px solid red;
+       background-image: url(../FinalWeb/nature_fun_logo1.png);
+      background-repeat: no-repeat; 
+    margin-top: -3px;
+    
+}
+
+.hiking {
+   
+    background-repeat: no-repeat; 
+  width: 200px;
+      height: 200px;
+    
+    
+}
+
+
+
+.signup {
+    font-family: 'Raleway', sans-serif;
+    font-size: 45px;
+    font-style: Regular;
+    color:azure;
+    width:500px;
+    height:55px;
+    align-self: center;
+    position: absolute;
+    margin-top: -1110px;
+    margin-left: 540px;
+    
+}
+
+.feature-image {
+  width: 200px;
+  height: 200px;
+  margin:10px auto 10px auto;
+  border-radius: 30%;
+  overflow: hidden;
+  color: white;
+ display:flex; align-content: center
+}
+
+
+.tulip{
+   float: right;
+   margin:30px 5px 5px 5px ;
+    color:dimgray;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.flower1{
+   font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-style: Regular;
+    color:floralwhite;
+    width:120px;
+    height:20px;
+    align-self: center;
+    position: absolute;
+    margin-top:204px;
+    margin-left: -165px;
+}
+
+.deer1{
+   font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-style: Regular;
+    color:floralwhite;
+    width:170px;
+    height:20px;
+    align-self: center;
+    position: absolute;
+    margin-top:204px;
+    margin-left: -195px;
+}
+
+.mountain1{
+   font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-style: Regular;
+    color:floralwhite;
+    width:180px;
+    height:20px;
+    align-self: center;
+    position: absolute;
+    margin-top:204px;
+    margin-left: -198px;
+}
+
+
+.camping1{
+   font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-style: Regular;
+    color:floralwhite;
+    width:180px;
+    height:20px;
+    align-self: center;
+    position: absolute;
+    margin-top:204px;
+    margin-left: -198px;
+}
+
+
+
+
+
+
+/* Product Reviews */
+
+
+.welcome {
+    
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    font-style: Regular;
+    color:lightyellow;
+    width:280px;
+    height:20px;
+    align-self: center;
+    position: absolute;
+    margin-top: -1050px;
+    margin-left: 540px;
+    
+}
+
+.pill-button {
+    font-family: 'Handlee', cursive;
+    font-size: 17px;
+    display: inline-block;
+    background: transparent;
+    padding: 11px;
+    border-radius: 0px;
+    color: white;
+    text-decoration: none;
+    margin-right: auto;
+    position: relative;
+    left: 1px;
+    margin-top: 20px;
+    
+}
+
+footer {
+    
+    background-color: rosybrown;
+    width: px;
+    height: 90px;
+    margin-top:607px;
+    margin-left:0px;
+    position:relative;
+}
+
+
+
+.footercopyright {
+font-family: 'Raleway', sans-serif;
+    font-size: 11px;
+ text-decoration: none;
+    position: absolute;
+    right: 35px;
+    margin-top: -8px; 
+    color: whitesmoke;
+}
+
+.footercopyright2 {
+font-family: 'Raleway', sans-serif;
+    font-size: 11px;
+ text-decoration: none;
+    position: absolute;
+    right: 220px;
+    margin-top: -8px; 
+    color: whitesmoke;
+}
+
+
+
+.pill-buttontwo {
+    font-family: 'Handlee', cursive;
+    font-size:17px;
+    display: inline-block;
+    background: transparent;
+    padding:11px;
+    border-radius: 0px;
+    color: white;
+    text-decoration: none;
+    word-spacing: 
+    margin-right: auto;
+    position: relative;
+    right: -613px;
+    margin-top: 30px;
+    
+}
+
+.pill-buttontwoa {
+    font-family: 'Handlee', cursive;
+    font-size:17px;
+    display: inline-block;
+    background:transparent;
+    padding:11px;
+    border-radius: 0px;
+    color: white;
+    text-decoration: none;
+    word-spacing: 
+    margin-right: auto;
+    position: relative;
+    right: -613px;
+    margin-top: 18px;
+    
+}
+.pill-buttonthree {
+    font-family: 'Handlee', cursive;
+    font-size:20px;
+    background: gray;
+    padding:4px;
+    border-radius: 11px;
+    color: white;
+    text-decoration: none;
+    word-spacing: 
+    margin-right: auto;
+    position: absolute;
+    right: 810px;
+    margin-top: 250px;
+    
+}
+
+.feature-image2 {
+  width: 200px;
+  height: 200px;
+  position:relative;
+  border-radius: 30%;
+  overflow: hidden;
+margin-top:120px;
+    margin-left: 20px;
+  color: white;
+}
+.flower3{
+   font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-style: Regular;
+    color:lightyellow;
+    width:120px;
+    height:20px;
+    align-self: center;
+    position: absolute;
+    margin-top:10px;
+    margin-left: 100px;
+}
+
+
+.info{
+    width: 200px;
+    padding: 20px;
+    border: 4px solid white;
+    margin-top:-180px;
+    margin-left: 240px
+    
+}
+
+.feature-image3 {
+  width: 200px;
+  height: 200px;
+  position:relative;
+  border-radius: 30%;
+  overflow: hidden;
+margin-top:-192px;
+    margin-left: 458px;
+  color: white;
+}
+
+.wildlifeinfo{
+    width: 200px;
+    padding: 20px;
+    border: 4px solid white;
+    margin-top:-183px;
+    margin-left:673px
+    
+}
+
+.feature-image4 {
+  width: 200px;
+  height: 200px;
+  position:relative;
+  border-radius: 30%;
+  overflow: hidden;
+margin-top:10px;
+    margin-left:15px;
+  color: white;
+}
+
+.feature-image5 {
+  width: 200px;
+  height: 200px;
+  position:relative;
+  border-radius: 30%;
+  overflow: hidden;
+margin-top:-205px;
+    margin-left: 458px;
+  color: white;
+}
+
+.campresort{
+    margin: 20px 20px 20px 50px;
+
+
+}
+
+
+.pill-buttonfour {
+    font-family: 'Handlee', cursive;
+    font-size:20px;
+    background: gray;
+    padding:4px;
+    border-radius: 11px;
+    color: black;
+    text-decoration: none;
+    word-spacing: 
+    margin-right: auto;
+    position: absolute;
+    right: 600px;
+    margin-top: 0px;
+    border: 2px solid white;
+    
+}
+
+.last-container1 {
+    display: flex;
+    background-color: rosybrown;
+    width: auto;
+    height:80px;
+    margin-top:122px;
+}
+
+
+
+
+.last-container2 {
+    display: flex;
+    background-color: rosybrown;
+    width: auto;
+    height:80px;
+    margin-top:34px;
+}
+
+
+.campresort1{
+    margin-top: 88px;
+
+
+}
+
+.flexbox-container1 {
+    display: flex;
+    background-color: darkseagreen;
+    border: 2px solid black;
+    width:250px;
+    height:400px;
+    margin-top:30px;
+    margin-left:25px
+        
+    
+}
+
+.middle-container2 {
+    display: flex;
+    background-color: darkseagreen;
+    border: 2px solid black;
+    width:250px;
+    height:400px;
+    margin-top:-400px;
+    margin-left:325px
+        
+    
+}
+
+.middle-container3 {
+    display: flex;
+    background-color: darkseagreen;
+    border: 2px solid black;
+    width:250px;
+    height:400px;
+    margin-top:-400px;
+    margin-left:625px
+        
+    
+}
+
+
+
+h2, h3, h4{
+  margin-top:10px;
+    
+}
+
+h2{
+    margin-left:20px; 
+}
+h3 {
+    margin-left:50px; 
+
+}
+
+h4{
+    margin-left:50px; 
+}
+
+
+.pill-buttonfive {
+    font-family: 'Handlee', cursive;
+    font-size:20px;
+    border: 2px solid white;
+    background: gray;
+    padding:4px;
+    border-radius: 10px;
+    color: black;
+    text-decoration: none;
+    word-spacing: ;
+    position: absolute;
+    right: 900px;
+    margin-top: -100px;
+    
+}
+
+.pill-buttonsix {
+    font-family: 'Handlee', cursive;
+    font-size:20px;
+    border: 2px solid white;
+    background: gray;
+    padding:4px;
+    border-radius: 10px;
+    
+    color: black;
+    text-decoration: none;
+    word-spacing: ;
+    position: absolute;
+    right: 600px;
+    margin-top: -100px;
+    
+}
+
+.pill-buttonseven {
+    font-family: 'Handlee', cursive;
+    font-size:20px;
+    border: 2px solid white;
+    background: gray;
+    padding:4px;
+    border-radius: 10px;
+    color: black;
+    text-decoration: none;
+    
+    word-spacing: ;
+    position: absolute;
+    right: 300px;
+    margin-top: -100px;
+    
+}
+
+.whitewater{
+    margin-left: 10px;
+    margin-top: 30px;
+    background-color:transparent;
+    
+}
+
+.notconvinced {
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    font-style: Regular;
+    color:indianred;
+    width:300px;
+    height:55px;
+    align-self: center;
+    position: absolute;
+    margin-top: -210px;
+    margin-left: 585px;
+    
+}
+
+
+.pill-buttoneight {
+    font-family: 'Handlee', cursive;
+    font-size:15px;
+    border: 2px solid black;
+    background: gray;
+    padding:4px;
+    border-radius: 10px;
+    color:azure;
+    text-decoration: none;
+    
+    word-spacing: ;
+    position: absolute;
+    right: 300px;
+    margin-top: -100px;
+    
+}
+
+
+.middle-containerb {
+    display: flex;
+    background-color:blanchedalmond;
+    width: auto;
+    height:400px;
+    margin-top:350px;
+    margin-left:auto;
+}
+
+
+.middle-containerc {
+    display: flex;
+    background-color:bl;
+    width: auto;
+    height:400px;
+    margin-top:auto;
+    margin-left:auto;
+}
+
+/*float left*/ 
+.left { float: left; /*left in our text*/ margin: 3px; /*space around the image*/ } /*float right*/ 
+.right { float: right; /*right in our text*/ margin: 3px; /*space around the image*/ } 
+
+.blogtext {
+    font-family: 'Dancing Script', cursive;
+    font-size:80px;
+    margin-top:-1260px;
+    margin-left:275px;
+    width:800px;
+    padding:5px;
+    color:rosybrown;
+}
+
+.blogtext2 {
+    font-family: 'Dancing Script', cursive;
+    font-size:90px;
+    margin-top:-70px;
+    margin-left:230px;
+    width:900px;
+    padding:5px;
+}
+.blogtext3 {
+    font-family: 'Dancing Script', cursive;
+    font-size:70px;
+    margin-top:-190px;
+    margin-left:315px;
+    width:700px;
+    padding:4px;
+    color:gray;
+}
+
+.last-container3 {
+    display: flex;
+    background-color: rosybrown;
+    width: 900px;
+    height:80px;
+    margin-top:-83px;
+    margin-left:182px;
+}
+
+
+
+
+.blogtext4 {
+    font-family: 'Dancing Script', cursive;
+    font-size:80px;
+    margin-top:900px;
+    margin-left:275px;
+    width:800px;
+    padding:5px;
+    color:rosybrown;
+}
+
+.blogtext5 {
+    font-family: 'Dancing Script', cursive;
+    font-size:90px;
+    margin-top:-70px;
+    margin-left:230px;
+    width:900px;
+    padding:5px;
+}
+.blogtext6 {
+    font-family: 'Dancing Script', cursive;
+    font-size:70px;
+    margin-top:-60px;
+    margin-left:310px;
+    width:700px;
+    padding:4px;
+    color:gray;
+}
+
